@@ -12,3 +12,11 @@ In der Beschreibung ist u.A. folgendes zu entnehmen:
 - Aussehen
 
 Diese Informationen sind frei zugänglich.
+
+
+## Detailierte Beschreibung
+
+* Augenfarbe: Grün
+* Haarfarbe: Rot
+* Gewicht: 75kg
+* Groesse: 180cm
