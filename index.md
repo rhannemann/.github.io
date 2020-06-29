@@ -22,3 +22,5 @@ Diese Informationen sind frei zugänglich.
 * Groesse: 180cm
 
 > Ich lerne GIT
+
+![Character Image](https://upload.wikimedia.org/wikipedia/commons/4/4c/Columbo_Peter_Falk_1973.JPG)
