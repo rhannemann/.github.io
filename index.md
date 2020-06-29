@@ -20,3 +20,5 @@ Diese Informationen sind frei zugänglich.
 * Haarfarbe: Rot
 * Gewicht: 75kg
 * Groesse: 180cm
+
+> Ich lerne GIT
